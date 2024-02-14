@@ -1,2 +1,2 @@
 # CatClone
-A made a Cat clone in C
+Implements the basic functionality of Cat in C
